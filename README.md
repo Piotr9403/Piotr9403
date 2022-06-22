@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...software testing
 - 🌱 I’m currently learning ...on Kodilla Bootcamp
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... https://www.linkedin.com/in/piotr-kowalczyk-2958bb145/
 
 <!---
 Piotr9403/Piotr9403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
